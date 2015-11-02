@@ -18,3 +18,6 @@ ExtJS Spring MVC Hibernate CRUD REST Example
 ###Tools:
 * Apache Maven 3
 * Apache Tomcat 8
+
+### License
+Project is available under the Apache License 2.0 license. See the LICENSE file for more information.
