@@ -1,5 +1,5 @@
 # ExtJs CRUD MVC
-ExtJS Spring MVC Hibernate CRUD Example
+ExtJS Spring MVC Hibernate CRUD REST Example
 
 ###Platform:
 * Java
