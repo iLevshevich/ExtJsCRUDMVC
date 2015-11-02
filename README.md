@@ -16,4 +16,5 @@ ExtJS Spring MVC Hibernate CRUD Example
 * IntelliJ IDEA 13.0
 
 ###Tools:
-* Apache Maven
+* Apache Maven 3
+* Apache Tomcat 8
